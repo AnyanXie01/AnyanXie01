@@ -1,2 +1,2 @@
 Hello, world!
-fix conflict remote.
+fix conflict local.
