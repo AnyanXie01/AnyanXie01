@@ -5,3 +5,18 @@ Conclusion:
 1. Conflict won't happen when there remote end and local end are one version between each other.
 2. If two or more versions behind or ahead, even if content are the same, we still need to pull to
 	the local repo to fix the conflict.
+
+How to solve conflict:
+1. git pull to the local repo.
+2. the form of the conflic is like these:(upper is the version of local, lower is the version of remote.)
+<<<<<<< HEAD
+       int sysnetId;
+       public Node(int sysnetId) {
+           this.sysnetId = sysnetId;
+       }
+=======
+        int sysnetId;
+        public Node(int sysnetId) {
+            this.sysnetId = sysnetId;
+        }
+>>>>>>> 5881fe17d4c36e8c0aedee4058844b5bbea5105b
