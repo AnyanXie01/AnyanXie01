@@ -1,2 +1,7 @@
 Hello, world!
 fix conflict remote1.
+
+Conclusion: 
+1. Conflict won't happen when there remote end and local end are one version between each other.
+2. If two or more versions behind or ahead, even if content are the same, we still need to pull to
+	the local repo to fix the conflict.
