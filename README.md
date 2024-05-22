@@ -2,12 +2,10 @@
   <h1>Anyan Xie</h1>
 </div>
 
-- 🔥 JavaScript Enthusiast
-- 😍 CSS Lover
 - 🌱 I’m currently learning advanced Spring and React
-- 👨‍💻 Working as FrontEnd Web-Developer at [Buysmart](https://www.buysmart.ai/) 
+- 👨‍💻 Working as Backend Developer at [Buysmart](https://www.buysmart.ai/) 
 - ⚡️ Fun fact: I just love learning new things
-- 💬 Chat with me:  [@navin_moorthy](https://twitter.com/navin_moorthy)
+- 🔥 Seeking a full-time software engineer position
 
 ## I love working in
 
